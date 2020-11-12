@@ -1,0 +1,193 @@
+ /*************************** TAG SELECTORS *****************************************/
+ body{
+    margin:0;
+    color: #40514E;
+    text-align:center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1.88rem;
+    background-color:bisque;
+}
+
+form{
+    text-align: left;
+}
+
+li{
+    color:lightseagreen ;
+}
+
+p{
+    line-height: 2;
+    font-weight: normal;
+}
+
+a{
+    display: inline-block;
+    font-family: 'Merriweather Sans', sans-serif;
+    color:rgb(131, 114, 90);
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color: whitesmoke;
+}
+
+div{
+    background-color: bisque;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin:0 ;
+    line-height: 2;
+    color:lightseagreen;
+    padding-bottom: 75px;
+    font-family: 'Sacramento', cursive
+ }
+
+ h2{
+     font-size: 2.5rem;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: normal;
+    color: lightseagreen;
+    padding-bottom: 10px;
+ }
+
+
+ h3{
+    font-family: 'Sansita Swashed', cursive;
+    color:lightseagreen ;
+ }
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    color: rgb(182, 179, 168);
+    width: 5%;
+}
+
+span{
+    text-decoration: underline;
+}
+
+
+/***************************** CLASS SECLECTORS ***************************************/
+
+
+.cloud{
+    position: absolute;
+    top: 10px;
+    right: 6px;
+}
+
+
+.sky{
+    position: absolute;
+    bottom: 150px;
+    left: 5px;
+}
+
+
+.top-container {
+    position: relative;
+    padding-top: 60px;
+   
+ }
+
+ .middle-container{
+    padding-top: 67px;
+    border-bottom: 0;
+    background-color:antiquewhite ;
+   
+}
+.bottom-container{
+    margin-top:0;
+    padding: 0;
+    border-top: 0;
+ }
+
+ .contact-me{
+     background-color: antiquewhite;
+     padding-bottom: 1px;
+     
+ }
+
+ .last{
+    width: 36%;
+    margin: 40px auto;
+ }
+
+ .btn{
+     color: cyan;
+ }
+ 
+ .book{
+    width: 27%;
+    border-radius: 450px;
+    float: right;
+    padding-left: 40px;
+    
+}
+
+.degree{
+    width: 25%;
+    border-radius: 450px;
+    background-color: bisque;
+    float: left;
+    padding-right: 40px;
+}
+
+
+ 
+.profile{
+    background-color: antiquewhite;
+}
+
+.president{
+    border-radius: 150px;
+    padding: 75px, auto, 75px, auto;
+}
+
+.skills{
+    background-color: antiquewhite;
+    padding: 50, auto, 50, auto;
+}
+
+.skill-row{
+    background-color: antiquewhite;
+    text-align: right;
+    padding-top: 77px;
+}
+
+
+.copy{
+    color:lightseagreen ;
+    font-size: 0.75rem;
+    padding: 15px 0;
+}
+
+.intro{
+    width:50%;
+    margin: auto;
+}
+
+.mid{
+    width: 65%;
+}
+
+.fix{
+    width: 100%;
+    margin: auto;
+}
+
+
+/******************************* IDS SELECTORS *****************************************/
+
+
+
+
+
+
+
